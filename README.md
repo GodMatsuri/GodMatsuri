@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodMatsuri&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats-yourname.vercel.app/api?username=GodMatsuri&show_icons=true)
 
 <!--
 **GodMatsuri/GodMatsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
